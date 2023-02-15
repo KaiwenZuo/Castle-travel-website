@@ -1,4 +1,3 @@
-# CSC8019_Team03_2021-22
 
 # Project Title
 DaTripPlanner
@@ -125,13 +124,3 @@ Integral focusing on the function, purpose, and inner workings of each feature, 
 
 - UserServiceImp 
 : UserServiceImp is an implementation class of the UserService interface that implements the functionality defined in the class UserService. It implements user registration, user login logic, user account activation, user password change, user information viewing and other user-related functions.
-
-## Credits
-List of contributors:
-- Lei
-- Lewis
-- Kevin
-- Pete
-- Weidong
-
-Created By CSC 8019 Team 3 | All Rights Reserved
