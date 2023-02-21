@@ -124,3 +124,8 @@ Integral focusing on the function, purpose, and inner workings of each feature, 
 
 - UserServiceImp 
 : UserServiceImp is an implementation class of the UserService interface that implements the functionality defined in the class UserService. It implements user registration, user login logic, user account activation, user password change, user information viewing and other user-related functions.
+## Project Contributors
+Pete(Front-end)
+Lewis(Back-end)
+Weidong Zhang(Back-end)
+Kaiwen Zuo(Back-end &Database)
